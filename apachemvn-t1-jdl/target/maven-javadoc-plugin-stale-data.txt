@@ -1,0 +1,48 @@
+@options
+@packages
+--class-path
+'C:/Users/Usuario/Desktop/DEV/WORKSPACES/NTTDATA/Apache Maven/apachemvn-t1-jdl/target/classes;C:/Users/Usuario/Desktop/DEV/WORKSPACES/NTTDATA/Apache Maven/apachemvn-t1-jdl/target/test-classes;C:/Users/Usuario/Desktop/DEV/Core/Apache/Maven/LocalRepository_(.m2)/junit/junit/4.11/junit-4.11.jar;C:/Users/Usuario/Desktop/DEV/Core/Apache/Maven/LocalRepository_(.m2)/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/Usuario/Desktop/DEV/Core/Apache/Maven/LocalRepository_(.m2)/com/google/zxing/core/3.4.1/core-3.4.1.jar;C:/Users/Usuario/Desktop/DEV/Core/Apache/Maven/LocalRepository_(.m2)/com/google/zxing/javase/3.4.1/javase-3.4.1.jar;C:/Users/Usuario/Desktop/DEV/Core/Apache/Maven/LocalRepository_(.m2)/com/beust/jcommander/1.78/jcommander-1.78.jar;C:/Users/Usuario/Desktop/DEV/Core/Apache/Maven/LocalRepository_(.m2)/com/github/jai-imageio/jai-imageio-core/1.4.0/jai-imageio-core-1.4.0.jar;C:/Users/Usuario/Desktop/DEV/Core/Apache/Maven/LocalRepository_(.m2)/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/Usuario/Desktop/DEV/WORKSPACES/NTTDATA/Apache Maven/apachemvn-t1-jdl/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Usuario/Desktop/DEV/WORKSPACES/NTTDATA/Apache Maven/apachemvn-t1-jdl/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'apachemvn-t1-jdl 0.0.1-SNAPSHOT Test API'
+-use
+-version
+-windowtitle
+'apachemvn-t1-jdl 0.0.1-SNAPSHOT Test API'
+FPDual.apachemvn_t1_jdl
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\src\test\java = 1715166679729
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\allclasses-index.html = 1715341996315
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\allpackages-index.html = 1715341996320
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\copy.svg = 1715341996365
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\element-list = 1715341996242
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\help-doc.html = 1715341996355
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\index-all.html = 1715341996340
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\index.html = 1715341996347
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\javadoc.bat = 1715341995377
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\link.svg = 1715341996367
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\member-search-index.js = 1715341996328
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\module-search-index.js = 1715341996322
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\overview-tree.html = 1715341996284
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\package-search-index.js = 1715341996324
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\script.js = 1715341996362
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\search-page.js = 1715341996373
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\search.html = 1715341996344
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\search.js = 1715341996371
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\stylesheet.css = 1715341996360
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\tag-search-index.js = 1715341996330
+C:\Users\Usuario\Desktop\DEV\WORKSPACES\NTTDATA\Apache Maven\apachemvn-t1-jdl\target\site\testapidocs\type-search-index.js = 1715341996326

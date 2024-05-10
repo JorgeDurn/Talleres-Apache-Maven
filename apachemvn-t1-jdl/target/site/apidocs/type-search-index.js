@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"FPDual.apachemvn_t1_jdl","l":"Options"},{"p":"FPDual.apachemvn_t1_jdl","l":"Qr"}];updateSearchResults();
